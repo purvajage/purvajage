@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @purvajage
 - 👀 I’m interested in Java programming ,web development .
 - 🌱 I’m currently working on springboot , kotlin .
-- 📫 How to reach me gmail : purvajage44gmail.com
+- 📫 How to reach me gmail : -purvajage44gmail.com
 
 
 <!---
